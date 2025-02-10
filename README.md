@@ -1,1 +1,12 @@
-# Pragati-Yadav
+Hello👋 I'm Pragati Yadav 👩🏻‍💻
+I am a front-end developer from India 🇮🇳.
+
+Currently I am working with ...
+JavaScript   ReactJS   Redux Tailwind CSS   TypeScript   Git   GitHub   Jenkins jira  
+
+I have basic knowledge about ...
+Node.js   Mysql   Mongo     
+
+You can find me ...
+LinkedIn   Instagram Twitter  
+
