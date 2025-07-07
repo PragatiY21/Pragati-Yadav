@@ -8,5 +8,5 @@ I also have knowledge about ...
 Node.js   Mysql   Mongo     
 
 You can find me ...
-LinkedIn   Instagram Twitter  
+LinkedIn   Instagram   
 
